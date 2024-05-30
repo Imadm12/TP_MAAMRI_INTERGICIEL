@@ -1,0 +1,7 @@
+main\java\com\uphf\kafka\PartitionedProducer$IKafkaConstants.class
+main\java\com\uphf\kafka\PartitionedProducer.class
+com\uphf\kafka\ProducerCreator.class
+main\java\com\uphf\kafka\PartitionedConsumer$IKafkaConstants.class
+com\uphf\kafka\IKafkaConstants.class
+com\uphf\kafka\ConsumerCreator.class
+main\java\com\uphf\kafka\PartitionedConsumer.class
